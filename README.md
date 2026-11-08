@@ -4,6 +4,13 @@
 
 I design and build backend systems for banking and fintech: secure APIs, microservices and integrations that have to be correct, fast and reliable. I've been doing this for 8+ years, across banks, telecom projects and product teams.
 
+## Featured project
+
+### [Reqora](https://github.com/PangSoramDepo/Reqora)
+
+A visual API flow builder for designing, running and debugging API workflows on a canvas. It includes request logging, copy-as-cURL, encrypted secrets and webhook-triggered deployments.
+Built with Next.js 16 and Tailwind CSS v4.
+
 ## What I work on
 
 - **Banking & payment APIs**: secure, high-availability services for financial products
